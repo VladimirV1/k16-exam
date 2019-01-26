@@ -1,12 +1,21 @@
 @font-face {
-    font-family: EuropeExt;
-    src: url("../fonts/EuropeExt Bold.ttf");
+    font-family: 'EuropeExt';
+    src: local('EuropeExt Bold'), local('EuropeExtBold'),
+        url('../fonts/hinted-subset-EuropeExtBold.woff2') format('woff2'),
+        url('../fonts/hinted-subset-EuropeExtBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
 }
 
 @font-face {
-    font-family: EuropeExt;
-    src: url("../fonts/EuropeExt Normal.otf");
+    font-family: 'EuropeExt';
+    src: local('EuropeExt'),
+        url('../fonts/hinted-subset-EuropeExt.woff2') format('woff2'),
+        url('../fonts/hinted-subset-EuropeExt.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
 }
+
 
 body {
 	padding:0;
