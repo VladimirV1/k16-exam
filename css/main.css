@@ -24,7 +24,7 @@ body {
     font-weight: normal;
 }
 
-h1 {
+h2 {
 	font-size: 30px;
 	text-transform: uppercase;
 	font-family: EuropeExt;
@@ -240,7 +240,7 @@ header {
     padding: 14px 0 12px 24px;
 }
 
-.slider-text h1 {
+.slider-text h2 {
 	color: #fff;
 	font-size: 30px;
 	font-weight: normal;
@@ -248,7 +248,7 @@ header {
 	text-transform: uppercase;
 }
 
-.slider-text h2 {
+.slider-text h3 {
 	color: #fff;
 	font-size: 24px;
 	font-weight: bold;
@@ -273,7 +273,7 @@ header {
 	padding-top: 70px; 
 }
 
-.second-section h1 {
+.second-section h2 {
 	color: #073d79;
 }
 
@@ -337,12 +337,12 @@ header {
 	text-align: center;
 }
 
-.third-section h1 {
+.third-section h2 {
 	color: #073d79;
 	margin-top: 50px;
 }
 
-.third-section h2 {
+.third-section h3 {
 	color: #fff;
 	font-size: 24px;
 	text-transform: uppercase;
@@ -366,7 +366,7 @@ header {
     z-index: 1;
 }
 
-.building-block-left h2 {
+.building-block-left h3 {
 	margin-right: 50px;
 }
 
@@ -383,7 +383,7 @@ header {
     z-index: 1;
 }
 
-.building-block-right h2 {
+.building-block-right h3 {
 	margin-left: 50px;
 }
 
@@ -575,7 +575,7 @@ margin-top: 100px;
 	padding-top: 55px;
 }
 
-.fourth-section h1 {
+.fourth-section h2 {
 	color: #01983b;
 	margin: 14px;
 }
@@ -630,7 +630,7 @@ margin-top: 100px;
 	text-align: center;
 }
 
-.fifth-section h1 {
+.fifth-section h2 {
 	color: #01983b;
 	margin-top: 50px;
 }
@@ -711,12 +711,12 @@ margin-top: 100px;
 	margin-bottom: 47px;
 }
 
-.sixth-section h1 {
+.sixth-section h2 {
 	color: #2c2783;
 	margin-top: 16px;
 }
 
-.sixth-section h2 {
+.sixth-section h3 {
 	color: #2c2783;
 	font-size: 24px;
 	text-transform: uppercase;
@@ -748,7 +748,7 @@ margin-top: 100px;
 	text-align: center;
 }
 
-.seventh-section h1 {
+.seventh-section h2 {
 	margin-top: 35px;
 	margin-bottom: 18px;
 }
